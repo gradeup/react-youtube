@@ -1,6 +1,6 @@
 {
-  "name": "react-youtube",
-  "version": "7.6.0",
+  "name": "@gradeup/react-youtube",
+  "version": "7.6.1",
   "description": "react.js powered YouTube player component",
   "main": "dist/YouTube.js",
   "module": "es/YouTube.js",
@@ -14,7 +14,6 @@
     "player",
     "react-component"
   ],
-  "author": "troy betz <troybetz@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/compedit/react-youtube/issues"
